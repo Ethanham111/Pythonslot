@@ -1,1 +1,1 @@
-"# Pythonslot" 
+Slot Machine built using Python.
